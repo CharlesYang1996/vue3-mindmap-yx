@@ -1,9 +1,9 @@
 export default {
   translation: {
     contextmenu: {
-      collapse: '折叠节点',
-      expand: '展开节点',
-      delete: '删除节点',
+      collapse: '折叠节点1',
+      expand: '展开节点1',
+      delete: '删除节点1',
       'delete-one': '删除单个节点',
       add: '新建子节点',
       'add-parent': '新建父节点',
